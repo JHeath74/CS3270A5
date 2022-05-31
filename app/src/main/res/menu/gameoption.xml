@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ZeroCorrectAmount"
+        android:title="@string/zero_correct_amount" />
+    <item
+        android:id="@+id/ChangeAmountMaximum"
+        android:title="@string/change_amount_maximum" />
+</menu>

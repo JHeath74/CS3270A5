@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="?android:attr/buttonBarStyle"
+    tools:context=".ChangeButtons">
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        style="?android:attr/buttonBarStyle">
+
+        <Button
+            android:id="@+id/FiftyDollars"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            style="?android:attr/buttonBarButtonStyle"
+            android:text="@string/_50" />
+
+        <Button
+            android:id="@+id/TwentyDollars"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            style="?android:attr/buttonBarButtonStyle"
+            android:text="@string/_20" />
+
+        <Button
+            android:id="@+id/TenDollars"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            style="?android:attr/buttonBarButtonStyle"
+            android:text="@string/_10" />
+
+        <Button
+            android:id="@+id/FiveDollars"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            style="?android:attr/buttonBarButtonStyle"
+            android:text="@string/_5" />
+
+        <Button
+            android:id="@+id/OneDollar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            style="?android:attr/buttonBarButtonStyle"
+            android:text="@string/_1" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        style="?android:attr/buttonBarStyle">
+
+        <Button
+            android:id="@+id/FiftyCents"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/__50" />
+
+        <Button
+            android:id="@+id/TwentyFiveCents"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+
+            android:text="@string/__25" />
+
+        <Button
+            android:id="@+id/TenCents"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+
+            android:text="@string/__10" />
+
+        <Button
+            android:id="@+id/FiveCents"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+
+            android:text="@string/__5" />
+
+        <Button
+            android:id="@+id/OneCent"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+
+            android:text="@string/__1" />
+
+    </TableRow>
+</TableLayout>

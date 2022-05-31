@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">CS3270A5 Heath</string>
+    <string name="caption">Practice Making Change</string>
+    <string name="practice_making_change">Practice Making Change</string>
+    <string name="change_total_so_far">Change Total So Far</string>
+    <string name="change_to_make">Change To Make</string>
+    <string name="time_remaining">Time Remaining:</string>
+    <string name="_1">$1</string>
+    <string name="_5">$5</string>
+    <string name="_10">$10</string>
+    <string name="_20">$20</string>
+    <string name="_50">$50</string>
+    <string name="__50">$0.50</string>
+    <string name="__25">$0.25</string>
+    <string name="__10">$0.10</string>
+    <string name="__1">$0.01</string>
+    <string name="__5">$0.05</string>
+    <string name="change_amount_maximum">Change Amount Maximum</string>
+    <string name="zero_correct_amount">Zero Correct Amount</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="TimeOutWarning">You Took Too Long</string>
+    <string name="TimeOutTryAgain">You Should Try Again</string>
+    <string name="ok">Ok</string>
+    <string name="TimeOutDialog">TimeoutDialog</string>
+    <string name="YouDidIt">You Did It!</string>
+    <string name="CorrectChange">You Were Able To Make The Correct Change.</string>
+    <string name="_ok">ok</string>
+
+    <string name="TryAgain">You Should Try Again.</string>
+
+    <string name="__ok">ok</string>
+    <string name="PleaseTryAgain">Please, Try Again.</string>
+    <string name="TooMuchChange">That\'s Too Much Change.</string>
+    <string name="set_change_max">Set Change Max</string>
+    <string name="maximum_change_amount">Maximum Change Amount</string>
+    <string name="save">Save</string>
+    <string name="new_amount">New Amount</string>
+    <string name="start_over">Start Over</string>
+    <string name="correct_change_count">Correct Change Count</string>
+    <string name="You_Took_Too_Long">You Took Too Long</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
